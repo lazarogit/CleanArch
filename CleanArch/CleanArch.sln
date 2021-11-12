@@ -27,6 +27,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{91DC0C27-A43A-4916-BEF6-E64D6CF33A24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArch.Infra.Bus", "CleanArch.Infra.Bus\CleanArch.Infra.Bus.csproj", "{1651252D-E635-4BDE-A04E-89B45A2A4006}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{FB8BA34C-C7B2-420B-BAEF-2E759833D19C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB8BA34C-C7B2-420B-BAEF-2E759833D19C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB8BA34C-C7B2-420B-BAEF-2E759833D19C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1651252D-E635-4BDE-A04E-89B45A2A4006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1651252D-E635-4BDE-A04E-89B45A2A4006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1651252D-E635-4BDE-A04E-89B45A2A4006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1651252D-E635-4BDE-A04E-89B45A2A4006}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -63,6 +69,7 @@ Global
 		{DD3908FE-068E-426C-958A-7CA770347A5A} = {9601527C-C2C5-48DA-81FC-E65A22976AD4}
 		{DD38DE4E-0A09-46AE-BA24-24C7DB9FE4C2} = {77413EE6-C0A1-4057-9454-106AE4830984}
 		{FB8BA34C-C7B2-420B-BAEF-2E759833D19C} = {06434C65-4A20-4A92-96C5-089118781E58}
+		{1651252D-E635-4BDE-A04E-89B45A2A4006} = {35C091BF-AED2-4B7D-BFAA-750E2A00D362}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8D571B8B-88B0-4D37-AB0F-7C796DF25C45}
